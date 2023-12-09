@@ -3,8 +3,9 @@
 ### How to run
 
 1. Add *".env"* file with variables speciefied in *".env-example"*
-2. `npm run build`
-3. `npm start`
+2. `npm install`
+3. `npm run build`
+4. `npm start`
 
 
 ### API specification
